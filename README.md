@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/458019383.svg)](https://zenodo.org/badge/latestdoi/458019383)
 # AML_Repo
 Github Repository for Tazi et al. Unified classification and risk-stratification in Acute Myeloid Leukemia. 
 Please check our online tool : https://www.aml-risk-model.com/
